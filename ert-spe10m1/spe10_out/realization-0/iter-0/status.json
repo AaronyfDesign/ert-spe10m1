@@ -1,0 +1,29 @@
+{
+    "run_id": "1847f322-9a47-45f4-9b69-b7a18ecbcb40",
+    "start_time": 1728590205.0,
+    "end_time": null,
+    "jobs": [
+        {
+            "name": "TEMPLATE_RENDER",
+            "status": "Success",
+            "error": null,
+            "start_time": 1728590205.0,
+            "end_time": 1728590205.0,
+            "stdout": "TEMPLATE_RENDER.stdout.0",
+            "stderr": "TEMPLATE_RENDER.stderr.0",
+            "current_memory_usage": 536576,
+            "max_memory_usage": 536576
+        },
+        {
+            "name": "FLOW",
+            "status": "Failure",
+            "error": "Process exited with status code 1",
+            "start_time": 1728590205.0,
+            "end_time": 1728590206.0,
+            "stdout": "FLOW.stdout.1",
+            "stderr": "FLOW.stderr.1",
+            "current_memory_usage": 598016,
+            "max_memory_usage": 598016
+        }
+    ]
+}

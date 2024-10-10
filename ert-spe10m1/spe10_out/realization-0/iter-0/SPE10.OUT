@@ -1,0 +1,87 @@
+**********************************************************************
+*                                                                    *
+*                        This is flow 2023.10                        *
+*                                                                    *
+* Flow is a simulator for fully implicit three-phase black-oil flow, *
+*             including solvent and polymer capabilities.            *
+*          For more information, see https://opm-project.org         *
+*                                                                    *
+**********************************************************************
+
+Using 1 MPI processes with 2 OMP threads on each 
+
+Reading deck file 'SPE10.DATA'
+    0 Reading RUNSPEC  in SPE10.DATA line 18
+    1 Reading TITLE    in SPE10.DATA line 20
+    2 Reading DIMENS   in SPE10.DATA line 23
+    3 Reading CPR      in SPE10.DATA line 28
+    4 Reading NONNC    in SPE10.DATA line 32
+    5 Reading OIL      in SPE10.DATA line 35
+    6 Reading WATER    in SPE10.DATA line 37
+    7 Reading GAS      in SPE10.DATA line 39
+    8 Reading FIELD    in SPE10.DATA line 42
+    9 Reading EQLDIMS  in SPE10.DATA line 45
+   10 Reading TABDIMS  in SPE10.DATA line 48
+   11 Reading WELLDIMS in SPE10.DATA line 51
+   12 Reading UNIFOUT  in SPE10.DATA line 55
+   13 Reading START    in SPE10.DATA line 57
+   14 Reading GRID     in SPE10.DATA line 67
+   15 Reading INIT     in SPE10.DATA line 69
+   16 Reading DX       in SPE10.DATA line 72
+   17 Reading DY       in SPE10.DATA line 75
+   18 Reading DZ       in SPE10.DATA line 78
+   19 Reading PORO     in SPE10.DATA line 81
+   20 Reading TOPS     in SPE10.DATA line 85
+   21 Reading PERMX    in SPE10.DATA line 92
+   22 Reading PERMY    in SPE10.DATA line 346
+   23 Reading PERMZ    in SPE10.DATA line 600
+   24 Reading PROPS    in SPE10.DATA line 856
+   25 Reading SGOF     in SPE10.DATA line 860
+   26 Reading SWOF     in SPE10.DATA line 903
+   27 Reading DENSITY  in SPE10.DATA line 921
+   28 Reading PVTW     in SPE10.DATA line 928
+   29 Reading PVDO     in SPE10.DATA line 935
+   30 Reading PVDG     in SPE10.DATA line 956
+   31 Reading ROCK     in SPE10.DATA line 972
+   32 Reading SOLUTION in SPE10.DATA line 976
+   33 Reading EQUIL    in SPE10.DATA line 980
+   34 Reading SUMMARY  in SPE10.DATA line 984
+   35 Reading RUNSUM   in SPE10.DATA line 986
+   36 Reading FOPT     in SPE10.DATA line 988
+   37 Reading FGPT     in SPE10.DATA line 989
+   38 Reading FOPR     in SPE10.DATA line 990
+   39 Reading FGPR     in SPE10.DATA line 991
+   40 Reading FGIR     in SPE10.DATA line 992
+   41 Reading FGIT     in SPE10.DATA line 993
+   42 Reading FPR      in SPE10.DATA line 994
+   43 Reading FGIR     in SPE10.DATA line 995
+   44 Reading WBHP     in SPE10.DATA line 996
+   45 Reading WPI      in SPE10.DATA line 1000
+   46 Reading WOPR     in SPE10.DATA line 1004
+   47 Reading WGIR     in SPE10.DATA line 1006
+   48 Reading WGPR     in SPE10.DATA line 1008
+   49 Reading SCHEDULE in SPE10.DATA line 1012
+   50 Reading RPTRST   in SPE10.DATA line 1014
+   51 Reading TUNING   in SPE10.DATA line 1017
+   52 Reading WELSPECS in SPE10.DATA line 1023
+   53 Reading COMPDAT  in SPE10.DATA line 1028
+   54 Reading WCONPROD in SPE10.DATA line 1033
+   55 Reading WCONINJE in SPE10.DATA line 1037
+   56 Reading TSTEP    in SPE10.DATA line 1041
+
+OPM Flow will terminate due to unsupported critical keywords.
+These are keywords that would change the simulator results if supported.
+If you need to override this behaviour, you can use the command line argument --parsing-strictness=low,
+this will reduce the severity of this to a warning instead of an error.
+
+Error: Unsupported keywords or keyword items:
+
+  NONNC: keyword not supported
+  In file: SPE10.DATA, line 32
+
+Error: Unrecoverable errors while loading input: Problem with keyword 
+In <memory string> line 0
+Unsupported keywords or keyword items:
+
+  NONNC: keyword not supported
+  In file: SPE10.DATA, line 32
