@@ -11,11 +11,11 @@ Flow is a simulator for fully implicit three-phase black-oil flow, and is part o
 For more information visit: https://opm-project.org 
 
 Flow Version     =  2023.10 (lsb_release -d | sed s/.*:s+(.*)/1/: 2023.10-rfinal-1~focal)
-Machine name     =  aaronyf-VirtualBox (Number of logical cores: 2, Memory size: 7901.38 MB) 
+Machine name     =  aaronyf-VirtualBox (Number of logical cores: 2, Memory size: 7901.35 MB) 
 Operating system =  Linux x86_64 (Kernel: 5.15.0-121-generic, #131~20.04.1-Ubuntu SMP Mon Aug 12 13:09:56 UTC 2024 )
 Build time       =  
 User             =  aaronyf
-Simulation started on 11-10-2024 at 03:56:45 hrs
+Simulation started on 11-10-2024 at 22:25:36 hrs
 Parameters used by Flow:
 # [known parameters which were specified at run-time]
 EclDeckFileName="SPE10" # default: ""
