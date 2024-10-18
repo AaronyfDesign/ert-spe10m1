@@ -1,0 +1,2 @@
+09:44:12  Calling: /usr/local/lib/python3.8/dist-packages/ert/shared/share/ert/forward-models/templating/script/template_render.py -i parameters.json -o SPE10.DATA -t /home/aaronyf/download/ert/ert-spe10m1/resources/SPE10.DATA.jinja2
+09:44:13  Calling: /usr/local/lib/python3.8/dist-packages/ert/shared/share/ert/forward-models/res/script/flow.py SPE10 -v default -n 1 --summary-conversion

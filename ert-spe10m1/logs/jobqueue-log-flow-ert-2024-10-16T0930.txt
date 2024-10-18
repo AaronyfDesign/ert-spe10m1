@@ -1,0 +1,43 @@
+2024-10-16 09:30:24,727 - ert.scheduler - LegacyEnsemble - INFO - Experiment ran on ORCHESTRATOR: scheduler on LOCAL queue
+2024-10-16 09:30:24,843 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 0 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-0/iter-0'
+2024-10-16 09:31:28,383 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 0 finished with returncode=0
+2024-10-16 09:31:28,489 - ert.scheduler.local_driver - LegacyEnsemble - INFO - All realization tasks finished
+2024-10-16 09:31:28,492 - ert.scheduler - LegacyEnsemble - INFO - Experiment ran on QUEUESYSTEM: LOCAL
+2024-10-16 09:32:01,118 - ert.scheduler - LegacyEnsemble - INFO - Experiment ran on ORCHESTRATOR: scheduler on LOCAL queue
+2024-10-16 09:32:01,250 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 0 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-0/iter-0'
+2024-10-16 09:32:01,278 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 1 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-1/iter-0'
+2024-10-16 09:32:01,312 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 2 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-2/iter-0'
+2024-10-16 09:32:01,355 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 3 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-3/iter-0'
+2024-10-16 09:35:49,739 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 2 finished with returncode=0
+2024-10-16 09:35:49,788 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 4 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-4/iter-0'
+2024-10-16 09:36:18,654 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 0 finished with returncode=0
+2024-10-16 09:36:18,691 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 5 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-5/iter-0'
+2024-10-16 09:36:18,976 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 3 finished with returncode=0
+2024-10-16 09:36:19,011 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 6 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-6/iter-0'
+2024-10-16 09:36:22,532 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 1 finished with returncode=0
+2024-10-16 09:36:22,575 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 7 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-7/iter-0'
+2024-10-16 09:39:36,270 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 4 finished with returncode=0
+2024-10-16 09:39:45,258 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 6 finished with returncode=0
+2024-10-16 09:39:54,160 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 5 finished with returncode=0
+2024-10-16 09:39:55,076 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 7 finished with returncode=0
+2024-10-16 09:39:55,108 - ert.scheduler.local_driver - LegacyEnsemble - INFO - All realization tasks finished
+2024-10-16 09:39:55,109 - ert.scheduler - LegacyEnsemble - INFO - Experiment ran on QUEUESYSTEM: LOCAL
+2024-10-16 09:39:57,700 - ert.scheduler - LegacyEnsemble - INFO - Experiment ran on ORCHESTRATOR: scheduler on LOCAL queue
+2024-10-16 09:39:57,832 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 0 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-0/iter-1'
+2024-10-16 09:39:57,848 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 1 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-1/iter-1'
+2024-10-16 09:39:57,875 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 2 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-2/iter-1'
+2024-10-16 09:39:57,915 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 3 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-3/iter-1'
+2024-10-16 09:44:03,680 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 0 finished with returncode=0
+2024-10-16 09:44:03,734 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 4 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-4/iter-1'
+2024-10-16 09:44:12,590 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 3 finished with returncode=0
+2024-10-16 09:44:12,636 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 5 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-5/iter-1'
+2024-10-16 09:44:14,560 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 1 finished with returncode=0
+2024-10-16 09:44:14,606 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 6 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-6/iter-1'
+2024-10-16 09:44:20,791 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 2 finished with returncode=0
+2024-10-16 09:44:20,830 - ert.scheduler.local_driver - LegacyEnsemble - DEBUG - Submitting realization 7 as command 'job_dispatch.py /home/aaronyf/download/ert/ert-spe10m1/spe10_out/realization-7/iter-1'
+2024-10-16 09:48:03,935 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 4 finished with returncode=0
+2024-10-16 09:48:22,179 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 6 finished with returncode=0
+2024-10-16 09:48:23,206 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 5 finished with returncode=0
+2024-10-16 09:48:28,350 - ert.scheduler.local_driver - LegacyEnsemble - INFO - Realization 7 finished with returncode=0
+2024-10-16 09:48:28,389 - ert.scheduler.local_driver - LegacyEnsemble - INFO - All realization tasks finished
+2024-10-16 09:48:28,391 - ert.scheduler - LegacyEnsemble - INFO - Experiment ran on QUEUESYSTEM: LOCAL

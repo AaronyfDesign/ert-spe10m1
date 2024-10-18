@@ -1,0 +1,61 @@
+2024-10-16 09:30:14,049 [INFO] uvicorn.error: Started server process [3771]
+2024-10-16 09:30:14,050 [INFO] uvicorn.error: Waiting for application startup.
+2024-10-16 09:30:14,050 [INFO] uvicorn.error: Application startup complete.
+2024-10-16 09:31:38,076 [INFO] uvicorn.access: 127.0.0.1:50022 - "GET /healthcheck HTTP/1.1" 200
+2024-10-16 09:31:38,108 [INFO] uvicorn.access: 127.0.0.1:50032 - "GET /experiments HTTP/1.1" 200
+2024-10-16 09:31:38,113 [INFO] uvicorn.access: 127.0.0.1:50032 - "GET /experiments/d29fe3ea-49f3-41a1-b6f1-fb1f6cc44156/ensembles HTTP/1.1" 200
+2024-10-16 09:31:38,213 [INFO] uvicorn.access: 127.0.0.1:50032 - "GET /ensembles/442d0d34-ab81-4090-86c4-14bc7915fb80/responses HTTP/1.1" 200
+2024-10-16 09:31:38,258 [INFO] uvicorn.access: 127.0.0.1:50032 - "GET /ensembles/442d0d34-ab81-4090-86c4-14bc7915fb80/parameters HTTP/1.1" 200
+2024-10-16 09:31:38,499 [INFO] uvicorn.access: 127.0.0.1:50038 - "GET /experiments HTTP/1.1" 200
+2024-10-16 09:31:38,502 [INFO] uvicorn.access: 127.0.0.1:50038 - "GET /ensembles/442d0d34-ab81-4090-86c4-14bc7915fb80 HTTP/1.1" 200
+2024-10-16 09:31:38,824 [INFO] uvicorn.access: 127.0.0.1:50044 - "GET /ensembles/442d0d34-ab81-4090-86c4-14bc7915fb80/records/FOPT HTTP/1.1" 200
+2024-10-16 09:31:39,014 [INFO] uvicorn.access: 127.0.0.1:50050 - "GET /ensembles/442d0d34-ab81-4090-86c4-14bc7915fb80/records/FOPT/observations HTTP/1.1" 200
+2024-10-16 09:31:39,032 [INFO] uvicorn.access: 127.0.0.1:50056 - "GET /ensembles/442d0d34-ab81-4090-86c4-14bc7915fb80/records/FOPTH HTTP/1.1" 200
+2024-10-16 09:54:01,273 [INFO] uvicorn.access: 127.0.0.1:50704 - "GET /experiments HTTP/1.1" 200
+2024-10-16 09:54:01,278 [INFO] uvicorn.access: 127.0.0.1:50704 - "GET /experiments/d29fe3ea-49f3-41a1-b6f1-fb1f6cc44156/ensembles HTTP/1.1" 200
+2024-10-16 09:54:01,342 [INFO] uvicorn.access: 127.0.0.1:50704 - "GET /ensembles/442d0d34-ab81-4090-86c4-14bc7915fb80/responses HTTP/1.1" 200
+2024-10-16 09:54:01,387 [INFO] uvicorn.access: 127.0.0.1:50704 - "GET /ensembles/442d0d34-ab81-4090-86c4-14bc7915fb80/parameters HTTP/1.1" 200
+2024-10-16 09:54:01,434 [INFO] uvicorn.access: 127.0.0.1:50704 - "GET /experiments/80f1ea22-be20-42ac-9500-cd2be43f529e/ensembles HTTP/1.1" 200
+2024-10-16 09:54:01,529 [INFO] uvicorn.access: 127.0.0.1:50704 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/responses HTTP/1.1" 200
+2024-10-16 09:54:01,574 [INFO] uvicorn.access: 127.0.0.1:50704 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/parameters HTTP/1.1" 200
+2024-10-16 09:54:01,661 [INFO] uvicorn.access: 127.0.0.1:50704 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/responses HTTP/1.1" 200
+2024-10-16 09:54:01,706 [INFO] uvicorn.access: 127.0.0.1:50704 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/parameters HTTP/1.1" 200
+2024-10-16 09:54:01,808 [INFO] uvicorn.access: 127.0.0.1:50716 - "GET /experiments HTTP/1.1" 200
+2024-10-16 09:54:01,811 [INFO] uvicorn.access: 127.0.0.1:50716 - "GET /ensembles/442d0d34-ab81-4090-86c4-14bc7915fb80 HTTP/1.1" 200
+2024-10-16 09:54:01,858 [INFO] uvicorn.access: 127.0.0.1:50716 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f HTTP/1.1" 200
+2024-10-16 09:54:01,905 [INFO] uvicorn.access: 127.0.0.1:50716 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7 HTTP/1.1" 200
+2024-10-16 09:54:02,119 [INFO] uvicorn.access: 127.0.0.1:50726 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPT HTTP/1.1" 200
+2024-10-16 09:54:02,243 [INFO] uvicorn.access: 127.0.0.1:50742 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPT/observations HTTP/1.1" 200
+2024-10-16 09:54:02,293 [INFO] uvicorn.access: 127.0.0.1:50748 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPTH HTTP/1.1" 200
+2024-10-16 09:54:07,164 [INFO] uvicorn.access: 127.0.0.1:53718 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPT HTTP/1.1" 200
+2024-10-16 09:54:07,363 [INFO] uvicorn.access: 127.0.0.1:53734 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FOPT HTTP/1.1" 200
+2024-10-16 09:54:07,476 [INFO] uvicorn.access: 127.0.0.1:53748 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPT/observations HTTP/1.1" 200
+2024-10-16 09:54:07,521 [INFO] uvicorn.access: 127.0.0.1:53762 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPTH HTTP/1.1" 200
+2024-10-16 09:54:07,563 [INFO] uvicorn.access: 127.0.0.1:53770 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FOPTH HTTP/1.1" 200
+2024-10-16 09:54:50,701 [INFO] uvicorn.access: 127.0.0.1:41398 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FIELD_PROPERTIES%3APOROSITY HTTP/1.1" 200
+2024-10-16 09:54:50,769 [INFO] uvicorn.access: 127.0.0.1:41412 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FIELD_PROPERTIES%3APOROSITY HTTP/1.1" 200
+2024-10-16 09:54:50,818 [INFO] uvicorn.access: 127.0.0.1:41420 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FIELD_PROPERTIESH%3APOROSITY HTTP/1.1" 200
+2024-10-16 09:54:50,862 [INFO] uvicorn.access: 127.0.0.1:41432 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FIELD_PROPERTIESH%3APOROSITY HTTP/1.1" 200
+2024-10-16 09:54:51,168 [INFO] uvicorn.access: 127.0.0.1:41444 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FIELD_PROPERTIES%3APOROSITY HTTP/1.1" 200
+2024-10-16 09:54:51,238 [INFO] uvicorn.access: 127.0.0.1:41458 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FIELD_PROPERTIES%3APOROSITY HTTP/1.1" 200
+2024-10-16 09:54:51,283 [INFO] uvicorn.access: 127.0.0.1:41462 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FIELD_PROPERTIESH%3APOROSITY HTTP/1.1" 200
+2024-10-16 09:54:51,332 [INFO] uvicorn.access: 127.0.0.1:41466 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FIELD_PROPERTIESH%3APOROSITY HTTP/1.1" 200
+2024-10-16 09:55:23,732 [INFO] uvicorn.access: 127.0.0.1:37220 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPT HTTP/1.1" 200
+2024-10-16 09:55:23,916 [INFO] uvicorn.access: 127.0.0.1:37232 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FOPT HTTP/1.1" 200
+2024-10-16 09:55:24,046 [INFO] uvicorn.access: 127.0.0.1:37236 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPT/observations HTTP/1.1" 200
+2024-10-16 09:55:24,087 [INFO] uvicorn.access: 127.0.0.1:37244 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPTH HTTP/1.1" 200
+2024-10-16 09:55:24,132 [INFO] uvicorn.access: 127.0.0.1:37252 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FOPTH HTTP/1.1" 200
+2024-10-16 09:55:24,497 [INFO] uvicorn.access: 127.0.0.1:37256 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPT HTTP/1.1" 200
+2024-10-16 09:55:24,703 [INFO] uvicorn.access: 127.0.0.1:37266 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FOPT HTTP/1.1" 200
+2024-10-16 09:55:24,817 [INFO] uvicorn.access: 127.0.0.1:37272 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPT/observations HTTP/1.1" 200
+2024-10-16 09:55:24,862 [INFO] uvicorn.access: 127.0.0.1:37278 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPTH HTTP/1.1" 200
+2024-10-16 09:55:24,905 [INFO] uvicorn.access: 127.0.0.1:37284 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FOPTH HTTP/1.1" 200
+2024-10-16 09:55:33,648 [INFO] uvicorn.access: 127.0.0.1:54008 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPT HTTP/1.1" 200
+2024-10-16 09:55:33,891 [INFO] uvicorn.access: 127.0.0.1:54012 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FOPT HTTP/1.1" 200
+2024-10-16 09:55:33,998 [INFO] uvicorn.access: 127.0.0.1:54028 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPT/observations HTTP/1.1" 200
+2024-10-16 09:55:34,041 [INFO] uvicorn.access: 127.0.0.1:54038 - "GET /ensembles/08022ef2-b46f-4bb4-87f0-aef9d879e7f7/records/FOPTH HTTP/1.1" 200
+2024-10-16 09:55:34,083 [INFO] uvicorn.access: 127.0.0.1:54042 - "GET /ensembles/78b82b3b-d75e-42f2-8aa0-db867773078f/records/FOPTH HTTP/1.1" 200
+2024-10-16 12:14:54,866 [INFO] uvicorn.error: Shutting down
+2024-10-16 12:14:54,968 [INFO] uvicorn.error: Waiting for application shutdown.
+2024-10-16 12:14:54,968 [INFO] uvicorn.error: Application shutdown complete.
+2024-10-16 12:14:54,968 [INFO] uvicorn.error: Finished server process [3771]

@@ -1,0 +1,499 @@
+2024-10-16 09:30:26,259 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 10 events in 0.005039s. 0 left in queue
+2024-10-16 09:30:28,264 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:30:30,266 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:30:32,273 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.003511s. 0 left in queue
+2024-10-16 09:30:34,276 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:30:36,280 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001670s. 0 left in queue
+2024-10-16 09:30:38,283 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:30:40,285 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:30:42,288 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001681s. 0 left in queue
+2024-10-16 09:30:44,291 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:30:46,295 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002428s. 0 left in queue
+2024-10-16 09:30:48,298 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:30:50,298 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:30:52,300 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001508s. 0 left in queue
+2024-10-16 09:30:54,302 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:30:56,307 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002379s. 0 left in queue
+2024-10-16 09:30:58,310 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:31:00,310 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:31:02,314 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001052s. 0 left in queue
+2024-10-16 09:31:04,315 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:31:08,754 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:31:10,756 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001305s. 0 left in queue
+2024-10-16 09:31:12,759 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:31:15,090 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:31:17,099 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.005303s. 0 left in queue
+2024-10-16 09:31:20,282 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:31:22,292 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.007878s. 0 left in queue
+2024-10-16 09:31:26,339 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001108s. 0 left in queue
+2024-10-16 09:31:28,346 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002233s. 0 left in queue
+2024-10-16 09:31:30,356 - ert.ensemble_evaluator.evaluator - ert_ee_batch_dispatcher - INFO - Ensemble ran with maximum memory usage for a single realization job: 158523392
+2024-10-16 09:31:30,369 - ert.ensemble_evaluator.monitor - ert_gui_simulation_thread - DEBUG - monitor-374955d7 informing server monitor is done...
+2024-10-16 09:31:30,371 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.020220s. 0 left in queue
+2024-10-16 09:31:30,374 - ert.ensemble_evaluator.monitor - ert_gui_simulation_thread - DEBUG - monitor-374955d7 informed server monitor is done
+2024-10-16 09:31:30,375 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - got message from client: {'attributes': {'specversion': '1.0', 'id': '5eb2948e-8b5e-11ef-ae59-179a8d0d41c7', 'source': '/ert/monitor/374955d7', 'type': 'com.equinor.ert.ee.user_done', 'time': '2024-10-16T01:31:30.372670+00:00'}, 'data': None}
+2024-10-16 09:31:30,376 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Client ('192.168.159.128', 43046) signalled done.
+2024-10-16 09:31:30,376 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Got done signal. 0 dispatchers to disconnect...
+2024-10-16 09:31:30,377 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Waiting for batcher to finish...
+2024-10-16 09:31:32,375 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:31:32,375 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:31:32,376 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - batcher finished normally
+2024-10-16 09:31:32,377 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Sending termination-message to clients...
+2024-10-16 09:31:32,379 - ert.ensemble_evaluator.monitor - ert_gui_simulation_thread - DEBUG - monitor-374955d7 client received terminated
+2024-10-16 09:31:32,424 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Async server exiting.
+2024-10-16 09:31:32,425 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Server thread exiting.
+2024-10-16 09:31:32,425 - ert.ensemble_evaluator.evaluator - ert_gui_simulation_thread - DEBUG - Evaluator is done
+2024-10-16 09:32:02,659 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 41 events in 0.007940s. 0 left in queue
+2024-10-16 09:32:04,665 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:06,669 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:08,672 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001993s. 0 left in queue
+2024-10-16 09:32:10,674 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:12,677 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001119s. 0 left in queue
+2024-10-16 09:32:14,682 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:16,684 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:18,689 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002634s. 0 left in queue
+2024-10-16 09:32:20,691 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:22,696 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002459s. 0 left in queue
+2024-10-16 09:32:24,698 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:26,701 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:28,704 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001089s. 0 left in queue
+2024-10-16 09:32:30,711 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:32,714 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:34,717 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:36,719 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001005s. 0 left in queue
+2024-10-16 09:32:44,595 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002460s. 0 left in queue
+2024-10-16 09:32:46,599 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001914s. 0 left in queue
+2024-10-16 09:32:48,603 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002086s. 0 left in queue
+2024-10-16 09:32:50,606 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:52,610 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:32:54,620 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.006609s. 0 left in queue
+2024-10-16 09:32:57,411 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.000994s. 0 left in queue
+2024-10-16 09:32:59,429 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.014195s. 0 left in queue
+2024-10-16 09:33:01,790 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.003002s. 0 left in queue
+2024-10-16 09:33:03,790 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:33:09,428 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001411s. 0 left in queue
+2024-10-16 09:33:12,715 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:33:14,725 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.007515s. 0 left in queue
+2024-10-16 09:33:17,741 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:33:19,745 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:33:25,615 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001126s. 0 left in queue
+2024-10-16 09:33:27,618 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:33:36,005 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.007847s. 0 left in queue
+2024-10-16 09:33:40,411 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002156s. 0 left in queue
+2024-10-16 09:33:43,412 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002372s. 0 left in queue
+2024-10-16 09:33:45,416 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:33:53,951 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.007688s. 0 left in queue
+2024-10-16 09:33:56,087 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:33:58,098 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.007423s. 0 left in queue
+2024-10-16 09:34:02,999 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001875s. 0 left in queue
+2024-10-16 09:34:05,003 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001695s. 0 left in queue
+2024-10-16 09:34:07,777 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.003735s. 0 left in queue
+2024-10-16 09:34:09,780 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:34:13,485 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.004017s. 0 left in queue
+2024-10-16 09:34:15,486 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:34:17,492 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002437s. 0 left in queue
+2024-10-16 09:34:19,494 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:34:21,497 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:34:23,501 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002270s. 0 left in queue
+2024-10-16 09:34:25,502 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:34:27,508 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.003179s. 0 left in queue
+2024-10-16 09:34:29,510 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:34:31,515 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:34:33,520 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002310s. 0 left in queue
+2024-10-16 09:34:35,523 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:34:41,414 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.003715s. 0 left in queue
+2024-10-16 09:34:43,887 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001099s. 0 left in queue
+2024-10-16 09:34:45,893 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002428s. 0 left in queue
+2024-10-16 09:34:47,896 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001623s. 0 left in queue
+2024-10-16 09:34:49,899 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:34:52,044 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001084s. 0 left in queue
+2024-10-16 09:34:54,049 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001611s. 0 left in queue
+2024-10-16 09:34:56,429 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.000917s. 0 left in queue
+2024-10-16 09:34:58,434 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001077s. 0 left in queue
+2024-10-16 09:35:00,439 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001659s. 0 left in queue
+2024-10-16 09:35:02,447 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.003941s. 0 left in queue
+2024-10-16 09:35:04,449 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:35:06,459 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.004407s. 0 left in queue
+2024-10-16 09:35:08,470 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.008289s. 0 left in queue
+2024-10-16 09:35:10,482 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.008394s. 0 left in queue
+2024-10-16 09:35:12,487 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001705s. 0 left in queue
+2024-10-16 09:35:14,493 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.003063s. 0 left in queue
+2024-10-16 09:35:16,498 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.003922s. 0 left in queue
+2024-10-16 09:35:18,504 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001352s. 0 left in queue
+2024-10-16 09:35:20,507 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:35:22,511 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001088s. 0 left in queue
+2024-10-16 09:35:24,516 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001225s. 0 left in queue
+2024-10-16 09:35:26,520 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001103s. 0 left in queue
+2024-10-16 09:35:28,529 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001001s. 0 left in queue
+2024-10-16 09:35:32,056 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001043s. 0 left in queue
+2024-10-16 09:35:34,060 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001241s. 0 left in queue
+2024-10-16 09:35:36,064 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001110s. 0 left in queue
+2024-10-16 09:35:38,067 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.000912s. 0 left in queue
+2024-10-16 09:35:40,071 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001019s. 0 left in queue
+2024-10-16 09:35:42,075 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001057s. 0 left in queue
+2024-10-16 09:35:44,085 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.006849s. 0 left in queue
+2024-10-16 09:35:46,088 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001570s. 0 left in queue
+2024-10-16 09:35:48,091 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:35:50,104 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 9 events in 0.011405s. 0 left in queue
+2024-10-16 09:35:52,112 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.004299s. 0 left in queue
+2024-10-16 09:35:54,114 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:35:57,555 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.009238s. 0 left in queue
+2024-10-16 09:36:01,250 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.000974s. 0 left in queue
+2024-10-16 09:36:03,259 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.006883s. 0 left in queue
+2024-10-16 09:36:08,177 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001365s. 0 left in queue
+2024-10-16 09:36:12,057 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.003297s. 0 left in queue
+2024-10-16 09:36:14,061 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:36:20,623 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 12 events in 0.011186s. 0 left in queue
+2024-10-16 09:36:22,743 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 6 events in 0.002154s. 0 left in queue
+2024-10-16 09:36:24,749 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 5 events in 0.003177s. 0 left in queue
+2024-10-16 09:36:29,729 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.003964s. 0 left in queue
+2024-10-16 09:36:31,735 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002853s. 0 left in queue
+2024-10-16 09:36:34,344 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.006052s. 0 left in queue
+2024-10-16 09:36:36,349 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002282s. 0 left in queue
+2024-10-16 09:36:39,914 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:36:41,919 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.004050s. 0 left in queue
+2024-10-16 09:36:44,386 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:36:46,388 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002064s. 0 left in queue
+2024-10-16 09:36:48,393 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:36:50,396 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:36:52,404 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.003849s. 0 left in queue
+2024-10-16 09:36:54,406 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:36:56,415 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.005566s. 0 left in queue
+2024-10-16 09:36:58,419 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001229s. 0 left in queue
+2024-10-16 09:37:00,422 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:37:02,429 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002814s. 0 left in queue
+2024-10-16 09:37:04,432 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:37:06,435 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001090s. 0 left in queue
+2024-10-16 09:37:08,442 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002599s. 0 left in queue
+2024-10-16 09:37:10,447 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:37:12,452 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002100s. 0 left in queue
+2024-10-16 09:37:16,833 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:37:23,092 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.005469s. 0 left in queue
+2024-10-16 09:37:28,247 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001038s. 0 left in queue
+2024-10-16 09:37:30,251 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:37:33,242 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001091s. 0 left in queue
+2024-10-16 09:37:35,247 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:37:37,249 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:37:39,260 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.008447s. 0 left in queue
+2024-10-16 09:37:42,181 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:37:44,187 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.004273s. 0 left in queue
+2024-10-16 09:37:46,191 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:37:48,198 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.004775s. 0 left in queue
+2024-10-16 09:37:50,199 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001065s. 0 left in queue
+2024-10-16 09:37:52,202 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:37:54,207 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001897s. 0 left in queue
+2024-10-16 09:37:56,210 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:37:58,214 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001068s. 0 left in queue
+2024-10-16 09:38:00,215 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001020s. 0 left in queue
+2024-10-16 09:38:02,218 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:04,222 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001144s. 0 left in queue
+2024-10-16 09:38:06,226 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:08,227 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:10,229 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:13,030 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001040s. 0 left in queue
+2024-10-16 09:38:15,033 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:17,036 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001016s. 0 left in queue
+2024-10-16 09:38:19,040 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:21,042 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:23,046 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001264s. 0 left in queue
+2024-10-16 09:38:25,049 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:27,052 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001765s. 0 left in queue
+2024-10-16 09:38:29,054 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:31,057 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:33,061 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001837s. 0 left in queue
+2024-10-16 09:38:35,064 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:37,070 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.003159s. 0 left in queue
+2024-10-16 09:38:39,073 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:41,076 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:43,081 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001191s. 0 left in queue
+2024-10-16 09:38:45,084 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:47,089 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002391s. 0 left in queue
+2024-10-16 09:38:49,092 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:51,095 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:53,099 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001365s. 0 left in queue
+2024-10-16 09:38:55,102 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:38:57,108 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002871s. 0 left in queue
+2024-10-16 09:38:59,112 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001791s. 0 left in queue
+2024-10-16 09:39:01,114 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:03,118 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002153s. 0 left in queue
+2024-10-16 09:39:05,118 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:07,120 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:09,124 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001893s. 0 left in queue
+2024-10-16 09:39:11,126 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:13,130 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002282s. 0 left in queue
+2024-10-16 09:39:15,130 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:17,133 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:19,135 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001017s. 0 left in queue
+2024-10-16 09:39:21,140 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001159s. 0 left in queue
+2024-10-16 09:39:23,142 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:25,145 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001111s. 0 left in queue
+2024-10-16 09:39:27,148 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001383s. 0 left in queue
+2024-10-16 09:39:29,151 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:31,336 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001830s. 0 left in queue
+2024-10-16 09:39:33,340 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002214s. 0 left in queue
+2024-10-16 09:39:35,344 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:38,191 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002085s. 0 left in queue
+2024-10-16 09:39:40,195 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:44,312 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001164s. 0 left in queue
+2024-10-16 09:39:46,316 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001370s. 0 left in queue
+2024-10-16 09:39:48,319 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001081s. 0 left in queue
+2024-10-16 09:39:50,324 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:53,340 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001181s. 0 left in queue
+2024-10-16 09:39:55,345 - ert.ensemble_evaluator.evaluator - ert_ee_batch_dispatcher - INFO - Ensemble ran with maximum memory usage for a single realization job: 159412224
+2024-10-16 09:39:55,351 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.008415s. 0 left in queue
+2024-10-16 09:39:55,352 - ert.ensemble_evaluator.monitor - ert_gui_simulation_thread - DEBUG - monitor-70be7de7 informing server monitor is done...
+2024-10-16 09:39:55,359 - ert.ensemble_evaluator.monitor - ert_gui_simulation_thread - DEBUG - monitor-70be7de7 informed server monitor is done
+2024-10-16 09:39:55,360 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - got message from client: {'attributes': {'specversion': '1.0', 'id': '8bb15eec-8b5f-11ef-ae59-179a8d0d41c7', 'source': '/ert/monitor/70be7de7', 'type': 'com.equinor.ert.ee.user_done', 'time': '2024-10-16T01:39:55.358688+00:00'}, 'data': None}
+2024-10-16 09:39:55,360 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Client ('192.168.159.128', 55508) signalled done.
+2024-10-16 09:39:55,361 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Got done signal. 0 dispatchers to disconnect...
+2024-10-16 09:39:55,362 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Waiting for batcher to finish...
+2024-10-16 09:39:57,358 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:57,359 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:39:57,360 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - batcher finished normally
+2024-10-16 09:39:57,361 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Sending termination-message to clients...
+2024-10-16 09:39:57,371 - ert.ensemble_evaluator.monitor - ert_gui_simulation_thread - DEBUG - monitor-70be7de7 client received terminated
+2024-10-16 09:39:57,426 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Async server exiting.
+2024-10-16 09:39:57,427 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Server thread exiting.
+2024-10-16 09:39:57,428 - ert.ensemble_evaluator.evaluator - ert_gui_simulation_thread - DEBUG - Evaluator is done
+2024-10-16 09:39:59,663 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 41 events in 0.026510s. 0 left in queue
+2024-10-16 09:40:01,665 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:40:03,668 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001789s. 0 left in queue
+2024-10-16 09:40:05,672 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001717s. 0 left in queue
+2024-10-16 09:40:07,675 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:40:09,679 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002178s. 0 left in queue
+2024-10-16 09:40:11,682 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:40:13,683 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:40:15,688 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002731s. 0 left in queue
+2024-10-16 09:40:17,690 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:40:19,693 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002233s. 0 left in queue
+2024-10-16 09:40:21,694 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:40:23,697 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:40:25,701 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002881s. 0 left in queue
+2024-10-16 09:40:27,705 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:40:29,708 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.002094s. 0 left in queue
+2024-10-16 09:40:31,712 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001241s. 0 left in queue
+2024-10-16 09:40:33,714 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:40:35,719 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001987s. 0 left in queue
+2024-10-16 09:40:38,045 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:40:40,047 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:40:48,507 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.006408s. 0 left in queue
+2024-10-16 09:40:53,820 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001838s. 0 left in queue
+2024-10-16 09:40:57,715 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001939s. 0 left in queue
+2024-10-16 09:40:59,725 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.006806s. 0 left in queue
+2024-10-16 09:41:01,728 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001495s. 0 left in queue
+2024-10-16 09:41:03,734 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.003115s. 0 left in queue
+2024-10-16 09:41:05,742 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:41:07,746 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001256s. 0 left in queue
+2024-10-16 09:41:09,749 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001989s. 0 left in queue
+2024-10-16 09:41:11,759 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.004155s. 0 left in queue
+2024-10-16 09:41:13,761 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:41:15,766 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.003839s. 0 left in queue
+2024-10-16 09:41:17,772 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.003371s. 0 left in queue
+2024-10-16 09:41:19,777 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.002777s. 0 left in queue
+2024-10-16 09:41:21,785 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002105s. 0 left in queue
+2024-10-16 09:41:23,786 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:41:25,790 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001873s. 0 left in queue
+2024-10-16 09:41:27,793 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:41:30,967 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001297s. 0 left in queue
+2024-10-16 09:41:32,976 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.008724s. 0 left in queue
+2024-10-16 09:41:35,554 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.000960s. 0 left in queue
+2024-10-16 09:41:37,560 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002073s. 0 left in queue
+2024-10-16 09:41:39,562 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:41:41,611 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001712s. 0 left in queue
+2024-10-16 09:41:43,621 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.008317s. 0 left in queue
+2024-10-16 09:41:46,929 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001042s. 0 left in queue
+2024-10-16 09:41:48,931 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:41:50,934 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001095s. 0 left in queue
+2024-10-16 09:41:52,940 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002218s. 0 left in queue
+2024-10-16 09:41:54,942 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:41:56,944 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001040s. 0 left in queue
+2024-10-16 09:41:58,947 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001052s. 0 left in queue
+2024-10-16 09:42:00,951 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001069s. 0 left in queue
+2024-10-16 09:42:02,955 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001109s. 0 left in queue
+2024-10-16 09:42:04,958 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:42:06,963 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002250s. 0 left in queue
+2024-10-16 09:42:08,968 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001899s. 0 left in queue
+2024-10-16 09:42:10,970 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:42:12,973 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002679s. 0 left in queue
+2024-10-16 09:42:14,977 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:42:16,978 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:42:18,982 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001200s. 0 left in queue
+2024-10-16 09:42:20,986 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001048s. 0 left in queue
+2024-10-16 09:42:22,990 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:42:25,187 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002042s. 0 left in queue
+2024-10-16 09:42:27,189 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:42:29,191 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.000980s. 0 left in queue
+2024-10-16 09:42:31,196 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.002134s. 0 left in queue
+2024-10-16 09:42:33,198 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:42:35,201 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002475s. 0 left in queue
+2024-10-16 09:42:37,202 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:42:39,202 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:42:41,208 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002720s. 0 left in queue
+2024-10-16 09:42:43,210 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:42:48,073 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.008721s. 0 left in queue
+2024-10-16 09:42:54,053 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.000959s. 0 left in queue
+2024-10-16 09:42:56,054 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:42:59,704 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.003847s. 0 left in queue
+2024-10-16 09:43:03,606 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:05,610 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001133s. 0 left in queue
+2024-10-16 09:43:08,071 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001016s. 0 left in queue
+2024-10-16 09:43:10,075 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001260s. 0 left in queue
+2024-10-16 09:43:12,082 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001235s. 0 left in queue
+2024-10-16 09:43:14,085 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:16,089 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002597s. 0 left in queue
+2024-10-16 09:43:18,092 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001074s. 0 left in queue
+2024-10-16 09:43:20,094 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:22,773 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001865s. 0 left in queue
+2024-10-16 09:43:24,774 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:26,832 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002194s. 0 left in queue
+2024-10-16 09:43:28,835 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:30,837 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:32,842 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.003356s. 0 left in queue
+2024-10-16 09:43:34,845 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:39,489 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002278s. 0 left in queue
+2024-10-16 09:43:41,490 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:43,598 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:45,601 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:47,606 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002604s. 0 left in queue
+2024-10-16 09:43:49,610 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:51,613 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:43:58,756 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002107s. 0 left in queue
+2024-10-16 09:44:01,710 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:44:03,724 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 5 events in 0.010031s. 0 left in queue
+2024-10-16 09:44:05,735 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 9 events in 0.008476s. 0 left in queue
+2024-10-16 09:44:07,738 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.003129s. 0 left in queue
+2024-10-16 09:44:09,743 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001499s. 0 left in queue
+2024-10-16 09:44:11,745 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:44:13,749 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 13 events in 0.002522s. 0 left in queue
+2024-10-16 09:44:15,761 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 10 events in 0.003410s. 0 left in queue
+2024-10-16 09:44:17,763 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001019s. 0 left in queue
+2024-10-16 09:44:19,768 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001149s. 0 left in queue
+2024-10-16 09:44:21,774 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 11 events in 0.003151s. 0 left in queue
+2024-10-16 09:44:23,779 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001011s. 0 left in queue
+2024-10-16 09:44:25,784 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001188s. 0 left in queue
+2024-10-16 09:44:27,787 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001064s. 0 left in queue
+2024-10-16 09:44:29,791 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001080s. 0 left in queue
+2024-10-16 09:44:31,796 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001496s. 0 left in queue
+2024-10-16 09:44:33,799 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001087s. 0 left in queue
+2024-10-16 09:44:35,809 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.003210s. 0 left in queue
+2024-10-16 09:44:37,813 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001040s. 0 left in queue
+2024-10-16 09:44:39,818 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001369s. 0 left in queue
+2024-10-16 09:44:41,824 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001465s. 0 left in queue
+2024-10-16 09:44:43,828 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001397s. 0 left in queue
+2024-10-16 09:44:45,831 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001294s. 0 left in queue
+2024-10-16 09:44:47,836 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001005s. 0 left in queue
+2024-10-16 09:44:49,838 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:44:52,428 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001925s. 0 left in queue
+2024-10-16 09:44:54,435 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001645s. 0 left in queue
+2024-10-16 09:45:01,236 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001485s. 0 left in queue
+2024-10-16 09:45:03,238 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:45:05,241 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:45:07,251 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.007564s. 0 left in queue
+2024-10-16 09:45:13,699 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.004483s. 0 left in queue
+2024-10-16 09:45:16,806 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:45:18,810 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001204s. 0 left in queue
+2024-10-16 09:45:21,491 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002958s. 0 left in queue
+2024-10-16 09:45:23,501 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.006242s. 0 left in queue
+2024-10-16 09:45:26,889 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002539s. 0 left in queue
+2024-10-16 09:45:28,892 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001760s. 0 left in queue
+2024-10-16 09:45:30,896 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002138s. 0 left in queue
+2024-10-16 09:45:32,900 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:45:34,904 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002137s. 0 left in queue
+2024-10-16 09:45:36,909 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002585s. 0 left in queue
+2024-10-16 09:45:38,914 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.003514s. 0 left in queue
+2024-10-16 09:45:40,918 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001250s. 0 left in queue
+2024-10-16 09:45:42,922 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:45:46,356 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001377s. 0 left in queue
+2024-10-16 09:45:48,361 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:45:50,364 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001580s. 0 left in queue
+2024-10-16 09:45:52,369 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002387s. 0 left in queue
+2024-10-16 09:45:54,371 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:45:56,375 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.002374s. 0 left in queue
+2024-10-16 09:45:58,379 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:46:01,982 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001695s. 0 left in queue
+2024-10-16 09:46:03,984 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:46:05,988 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001633s. 0 left in queue
+2024-10-16 09:46:07,997 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002177s. 0 left in queue
+2024-10-16 09:46:09,998 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:46:12,003 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.002761s. 0 left in queue
+2024-10-16 09:46:14,009 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001478s. 0 left in queue
+2024-10-16 09:46:17,037 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.000878s. 0 left in queue
+2024-10-16 09:46:19,038 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:46:21,043 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002240s. 0 left in queue
+2024-10-16 09:46:23,047 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001670s. 0 left in queue
+2024-10-16 09:46:25,057 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.006283s. 0 left in queue
+2024-10-16 09:46:28,213 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.003141s. 0 left in queue
+2024-10-16 09:46:30,216 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001743s. 0 left in queue
+2024-10-16 09:46:32,297 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.003297s. 0 left in queue
+2024-10-16 09:46:34,302 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.004333s. 0 left in queue
+2024-10-16 09:46:36,306 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:46:38,311 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002656s. 0 left in queue
+2024-10-16 09:46:40,318 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.004460s. 0 left in queue
+2024-10-16 09:46:42,324 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002552s. 0 left in queue
+2024-10-16 09:46:44,331 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.004614s. 0 left in queue
+2024-10-16 09:46:46,335 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:46:48,341 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002632s. 0 left in queue
+2024-10-16 09:46:50,348 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.004039s. 0 left in queue
+2024-10-16 09:46:52,355 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001891s. 0 left in queue
+2024-10-16 09:46:54,366 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.008104s. 0 left in queue
+2024-10-16 09:46:56,369 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:46:58,374 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.003902s. 0 left in queue
+2024-10-16 09:47:00,377 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.002130s. 0 left in queue
+2024-10-16 09:47:02,379 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:47:04,383 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001787s. 0 left in queue
+2024-10-16 09:47:06,389 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.003750s. 0 left in queue
+2024-10-16 09:47:08,391 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001053s. 0 left in queue
+2024-10-16 09:47:10,396 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001941s. 0 left in queue
+2024-10-16 09:47:12,399 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:47:14,403 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001797s. 0 left in queue
+2024-10-16 09:47:16,410 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.004066s. 0 left in queue
+2024-10-16 09:47:18,415 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002247s. 0 left in queue
+2024-10-16 09:47:20,419 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:47:22,434 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.003357s. 0 left in queue
+2024-10-16 09:47:24,437 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002191s. 0 left in queue
+2024-10-16 09:47:26,441 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.002988s. 0 left in queue
+2024-10-16 09:47:28,445 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002534s. 0 left in queue
+2024-10-16 09:47:30,446 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:47:32,448 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001401s. 0 left in queue
+2024-10-16 09:47:34,452 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001136s. 0 left in queue
+2024-10-16 09:47:36,457 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001209s. 0 left in queue
+2024-10-16 09:47:38,462 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001033s. 0 left in queue
+2024-10-16 09:47:40,465 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:47:42,470 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.002310s. 0 left in queue
+2024-10-16 09:47:44,473 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001177s. 0 left in queue
+2024-10-16 09:47:46,476 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001434s. 0 left in queue
+2024-10-16 09:47:48,480 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.002140s. 0 left in queue
+2024-10-16 09:47:50,483 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:47:52,486 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:47:54,490 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 0.001233s. 0 left in queue
+2024-10-16 09:47:56,492 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:47:58,496 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001434s. 0 left in queue
+2024-10-16 09:48:00,499 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001115s. 0 left in queue
+2024-10-16 09:48:02,502 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:48:04,504 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 6 events in 0.001502s. 0 left in queue
+2024-10-16 09:48:06,506 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:48:08,510 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001128s. 0 left in queue
+2024-10-16 09:48:10,512 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 1 events in 0.001001s. 0 left in queue
+2024-10-16 09:48:12,514 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:48:14,518 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001152s. 0 left in queue
+2024-10-16 09:48:16,521 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:48:18,522 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:48:20,527 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 3 events in 0.001856s. 0 left in queue
+2024-10-16 09:48:22,532 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001551s. 0 left in queue
+2024-10-16 09:48:24,537 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 2 events in 0.001519s. 0 left in queue
+2024-10-16 09:48:29,718 - ert.ensemble_evaluator.evaluator - ert_ee_batch_dispatcher - INFO - Ensemble ran with maximum memory usage for a single realization job: 159612928
+2024-10-16 09:48:31,074 - ert.ensemble_evaluator.monitor - ert_gui_simulation_thread - DEBUG - monitor-8d0cb233 informing server monitor is done...
+2024-10-16 09:48:31,076 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - processed 4 events in 1.359099s. 0 left in queue
+2024-10-16 09:48:31,079 - ert.ensemble_evaluator.monitor - ert_gui_simulation_thread - DEBUG - monitor-8d0cb233 informed server monitor is done
+2024-10-16 09:48:31,083 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - got message from client: {'attributes': {'specversion': '1.0', 'id': 'bf1583fc-8b60-11ef-ae59-179a8d0d41c7', 'source': '/ert/monitor/8d0cb233', 'type': 'com.equinor.ert.ee.user_done', 'time': '2024-10-16T01:48:31.075754+00:00'}, 'data': None}
+2024-10-16 09:48:31,083 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Client ('192.168.159.128', 39106) signalled done.
+2024-10-16 09:48:31,084 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Got done signal. 0 dispatchers to disconnect...
+2024-10-16 09:48:31,084 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Waiting for batcher to finish...
+2024-10-16 09:48:33,078 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:48:33,078 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - no events to be processed in queue
+2024-10-16 09:48:33,078 - ert.ensemble_evaluator.dispatch - ert_ee_batch_dispatcher - DEBUG - batcher finished normally
+2024-10-16 09:48:33,087 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Sending termination-message to clients...
+2024-10-16 09:48:33,089 - ert.ensemble_evaluator.monitor - ert_gui_simulation_thread - DEBUG - monitor-8d0cb233 client received terminated
+2024-10-16 09:48:33,133 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Async server exiting.
+2024-10-16 09:48:33,133 - ert.ensemble_evaluator.evaluator - ert_ee_run_server - DEBUG - Server thread exiting.
+2024-10-16 09:48:33,133 - ert.ensemble_evaluator.evaluator - ert_gui_simulation_thread - DEBUG - Evaluator is done
